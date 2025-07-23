@@ -3,4 +3,7 @@
 =======
 "This is the first branch i have created"
 "This is the branch file"
+<<<<<<< HEAD
+>>>>>>> Test1
+=======
 >>>>>>> Test1
